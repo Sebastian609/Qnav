@@ -26,8 +26,7 @@
            
             margin: 0 auto;
             
-          
-           
+               
         }
 
         label {
