@@ -1,0 +1,69 @@
+
+<html>
+
+    <head>
+        
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" href="style/normalize.css">
+        <link rel="stylesheet" href="style/style.css">
+        
+       
+        <title>Registro</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+       
+   
+   
+
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+        <script src="js/RegistarUsuario.js"></script>
+
+
+    </head>
+
+    <body>
+
+
+
+        <header class="hero"> 
+
+            <nav class="nav__hero"> 
+                <div class="container nav__container"> 
+                    <div class="logo">
+                        <h2 class="logo__name">QueryNav<span class="point">.</span></h2>
+                    </div>
+                </div>
+            </nav>
+
+        </header>
+
+        <div class="services">
+
+            <div class="card-form">
+
+                <form id="registroForm" class="formulario">
+                    <h2 class="card__title">Registro</h2>
+                    <input type="text" name="nombre" id="nombre" placeholder="Nombres" required class="dato">
+                    <div class="apellidos-registro"> 
+                        <input type="text" name="apellidoPaterno" id="apellidoPaterno" placeholder="Apellido paterno" required class="dato-alter">
+                        <input type="text" name="apellidoMaterno" id="apellidoMaterno" placeholder="Apellido materno" required class="dato-alter">
+                    </div>
+                    <input type="email" name="correo" id="correo" placeholder="Correo" class="dato" required>
+                    <input type="text" name="dni" id="dni" placeholder="DNI" pattern="[0-9]{8}" title="Por favor ingrese un dni valido" required class="dato">
+                    <input type="date" name="fechaNacimiento" id="fechaNacimiento" placeholder="Fecha de Nacimiento (YYYY-MM-DD)" required class="dato">
+                    <input type="tel" name="telefono" id="telefono" placeholder="Número telefónico (9 dígitos)" pattern="[0-9]{9}" required class="dato"    >
+                    <input type="password" name="contrasena" id="contrasena" placeholder="Contraseña" required class="dato">
+                    <input type="password" name="confirmarContrasena" id="confirmarContrasena" placeholder="Confirmar contraseña" required class="dato">
+                    <input type="submit" value="Registrarme" class="button">
+                </form>
+            </div>
+
+
+
+
+        </div>
+    </body>
+
+</html>

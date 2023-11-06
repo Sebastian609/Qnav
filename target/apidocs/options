@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/sebav/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar;C:/Users/sebav/.m2/repository/javax/websocket/javax.websocket-api/1.1/javax.websocket-api-1.1.jar;C:/Users/sebav/.m2/repository/mysql/mysql-connector-java/5.1.31/mysql-connector-java-5.1.31.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/sebav/OneDrive/Documentos/NetBeansProjects/QueryNav/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/sebav/OneDrive/Documentos/NetBeansProjects/QueryNav/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'QueryNav 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/sebav/OneDrive/Documentos/NetBeansProjects/QueryNav/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'QueryNav 1.0-SNAPSHOT API'
