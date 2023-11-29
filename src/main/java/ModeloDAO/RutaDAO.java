@@ -38,21 +38,20 @@ public class RutaDAO implements GenericDao<Object, Object> {
 
     @Override
     public Object read(Object id) {
-        Ruta ruta = null;
-        
-        
+        Ruta ruta = new Ruta();
         try {
-            String sql = "SELECT * FROM ruta WHERE ID_RUTA = " + id;
+            String sql = "SELECT * FROM ruta WHERE ID_RUTA = ?";
             Conexion cn = new Conexion();
             con = cn.getConnection();
             ps = con.prepareStatement(sql);
-
+             ps.setString(1, id.toString());
             rs = ps.executeQuery();
-
+//
             if (rs.next()) {
                 // Las credenciales son válidas, crea un objeto Pasajero y configúralo
                 ruta = new Ruta();
                 ruta.setId(rs.getString("ID_RUTA"));
+                System.out.println("----------------"+ruta.getId());
                 ruta.setNombre(rs.getString("NOMBRE_RUTA"));
                 ruta.setTarifa(rs.getDouble("TARIFA_RUTA"));
                 ruta.setColor(rs.getString("COLOR_RUTA"));
@@ -62,8 +61,6 @@ public class RutaDAO implements GenericDao<Object, Object> {
                 
                 
 
-            } else {
-                System.out.println("Credenciales inválidas.");
             }
         } catch (SQLException e) {
             e.printStackTrace();

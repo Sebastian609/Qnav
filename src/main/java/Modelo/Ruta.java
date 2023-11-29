@@ -50,7 +50,7 @@ public class Ruta
     
     public Ruta(String id)
     {
-        
+        System.out.print(id+"___666666666666666");
         Ruta obj = recuperarDeBD(id);
         this.Id = obj.getId();
         this.Nombre = obj.getNombre();

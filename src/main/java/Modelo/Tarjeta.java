@@ -94,10 +94,11 @@ public class Tarjeta
       System.out.println(idBus);
       Bus bus = new Bus(idBus);
       Double tarifa = bus.getRuta().getTarifa();
-      this.saldo -= tarifa;
+      
      
       if( dao.update(this)!=false)
       {
+          this.saldo -= tarifa;
           dao.registrarConsumo(this, bus);
       }
       else

@@ -77,6 +77,7 @@ public class ParaderoDAO implements GenericDao<Object, Object>
                 pr.setLatitud(rs.getDouble("LATITUD"));
                 pr.setLongitud(rs.getDouble("LONGITUD"));
                 pr.setEstado(rs.getBoolean("ACTIVO"));
+                System.out.println("paradero = " + pr.getId() );
                 list.add(pr);
             } 
             

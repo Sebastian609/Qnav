@@ -50,7 +50,7 @@ public class BusDAO extends Util implements GenericDao<Object, Object> {
                 bus.setTransportista((Transportista) daoTrasportista.read(rs.getString("ID_USUARIO")));
                 bus.setAforo(rs.getInt("AFORO"));
                 bus.setEstado(rs.getBoolean("ACTIVO"));
-                bus.setRuta(new Ruta("ID_RUTA"));
+                bus.setRuta(new Ruta(rs.getString("ID_RUTA")));
                 buses.add(bus);
             }
         } catch (SQLException e) {
@@ -96,7 +96,7 @@ public class BusDAO extends Util implements GenericDao<Object, Object> {
                 bus.setId(rs.getString("ID_BUS"));
                 bus.setPlaca(rs.getString("PLACA"));
                 bus.setTransportista((Transportista) daoTrasportista.read(rs.getString("ID_USUARIO")));
-                bus.setRuta(new Ruta("ID_RUTA"));
+                bus.setRuta(new Ruta(rs.getString("ID_RUTA")));
                 bus.setAforo(rs.getInt("AFORO"));
                 bus.setEstado(rs.getBoolean("ACTIVO"));
 
