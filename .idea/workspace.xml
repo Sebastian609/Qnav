@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7d57d01-1e0e-4103-852f-3bd01a74dc70" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Controlador/ControladorCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controlador/ControladorCRUD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Modelo/Pasajero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Modelo/Pasajero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ModeloDAO/PasajeroDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ModeloDAO/PasajeroDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/crud.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/crud.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/QueryNav-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/QueryNav-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/QueryNav-1.0-SNAPSHOT/WEB-INF/classes/Config/crearUsuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/QueryNav-1.0-SNAPSHOT/WEB-INF/classes/Config/crearUsuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/QueryNav-1.0-SNAPSHOT/WEB-INF/classes/Controlador/ControladorCRUD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/QueryNav-1.0-SNAPSHOT/WEB-INF/classes/Controlador/ControladorCRUD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/QueryNav-1.0-SNAPSHOT/WEB-INF/classes/Controlador/Registrar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/QueryNav-1.0-SNAPSHOT/WEB-INF/classes/Controlador/Registrar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/QueryNav-1.0-SNAPSHOT/WEB-INF/classes/Modelo/Pasajero.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/QueryNav-1.0-SNAPSHOT/WEB-INF/classes/Modelo/Pasajero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/QueryNav-1.0-SNAPSHOT/WEB-INF/classes/ModeloDAO/PasajeroDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/QueryNav-1.0-SNAPSHOT/WEB-INF/classes/ModeloDAO/PasajeroDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Config/Conexion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Config/Conexion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Config/Consumo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Config/Consumo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Config/compraTarjeta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Config/compraTarjeta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Config/crearUsuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Config/crearUsuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Config/inicioSesion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Config/inicioSesion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Config/recargarTarjetas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Config/recargarTarjetas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Controlador/ControladorCRUD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controlador/ControladorCRUD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Controlador/ControladorCompras.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controlador/ControladorCompras.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Controlador/ControladorConsumo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controlador/ControladorConsumo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Controlador/ControladorRegistro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controlador/ControladorRegistro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Controlador/ControlardorRecargas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controlador/ControlardorRecargas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Controlador/Registrar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controlador/Registrar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Controlador/Verificador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Controlador/Verificador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Modelo/Administrador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Modelo/Administrador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Modelo/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Modelo/Bus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Modelo/Empresa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Modelo/Empresa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Modelo/Paradero.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Modelo/Paradero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Modelo/Pasajero.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Modelo/Pasajero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Modelo/Persona.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Modelo/Persona.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Modelo/Ruta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Modelo/Ruta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Modelo/Tarjeta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Modelo/Tarjeta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Modelo/Transportista.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Modelo/Transportista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ModeloDAO/AdministradorDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ModeloDAO/AdministradorDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ModeloDAO/BusDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ModeloDAO/BusDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ModeloDAO/EmpresaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ModeloDAO/EmpresaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ModeloDAO/ParaderoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ModeloDAO/ParaderoDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ModeloDAO/PasajeroDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ModeloDAO/PasajeroDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ModeloDAO/RutaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ModeloDAO/RutaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ModeloDAO/TarjetaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ModeloDAO/TarjetaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ModeloDAO/TransportistaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ModeloDAO/TransportistaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Session/SessionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Session/SessionManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Utilities/Generador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utilities/Generador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Utilities/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Utilities/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebSockets/AlertasWebSocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WebSockets/AlertasWebSocket.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9f4495f0-33ee-4599-b1ad-1fd1df99eead" />
+        <option name="url" value="https://github.com/Sebastian609/Qnav.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ZB7B2DlqgeTzKqGmtpX2knCpMQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "cf567a96",
+    "last_opened_file_path": "C:/Users/sebav/OneDrive/Documentos/GitHub/Qnav/src/main/webapp/registro.html",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="GlassFish 5.1.0" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 5.1.0" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="21" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:63342/Qnav/src/main/webapp/registro.html" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Qnav" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Qnav" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7d57d01-1e0e-4103-852f-3bd01a74dc70" name="Changes" comment="" />
+      <created>1701883480928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701883480928</updated>
+      <workItem from="1701883481929" duration="645000" />
+      <workItem from="1701884243445" duration="499000" />
+      <workItem from="1701884760875" duration="792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
